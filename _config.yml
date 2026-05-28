@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Jackson Buczek"
 title_separator          : "-"
 name                     : &name "Jackson Buczek"
 description              : &description "Richland High School Student"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,8 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jackson Buczek"
-  pronouns         : # example: "she/her"  
-  bio              : "He/Him"
+  pronouns         : "He/Him" 
   location         : "Richland,WA"
   employer         : "None"
   email            : "Jacksonbuczek@gmail.com" 
@@ -45,7 +44,7 @@ publication_category:
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 65
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
