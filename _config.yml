@@ -11,10 +11,8 @@ locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jackson Buczek"
 title_separator          : "-"
-name                     : &name "Jackson Buczek"
-description              : &description "Richland High School Student"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Jackson Buczek"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://JacksonBuczek.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,6 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jackson Buczek"
+  bio              : "I am a student at Richland High School. I'm interested in Computer Science."
   pronouns         : "He/Him" 
   location         : "Richland,WA"
   employer         : "None"
