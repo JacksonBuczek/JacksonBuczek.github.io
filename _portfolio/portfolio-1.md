@@ -1,7 +1,11 @@
 ---
 title: "Chess in JavaScript"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/478×475.img'>"
+excerpt: "This Project Replicates Chess in JavaScript<br/><img src='/images/Recording 2026-05-26 090422.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This Project Replicates Chess in JavaScript
+Made in about 2 days
+The hardest part was figuring out how to detect if a move is legal or not
+The game is 2-player with no computers
+Made in 385 Lines
