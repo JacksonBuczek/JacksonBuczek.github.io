@@ -1,6 +1,6 @@
 ---
 title: "Chess in JavaScript"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/482×474.gif'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/478×475.img'>"
 collection: portfolio
 ---
 
