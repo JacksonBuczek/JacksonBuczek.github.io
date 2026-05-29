@@ -27,4 +27,3 @@ Skills
 Goals
 ======
 My Goal is to pursue a degree in Computer Science and eventually a job.
-------
