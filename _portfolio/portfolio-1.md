@@ -1,6 +1,6 @@
 ---
 title: "Chess in JavaScript"
-excerpt: "This Project Replicates Chess in JavaScript<br/><img src='/images/Recording 2026-05-26 090422.gif'>"
+excerpt: "This Project Replicates Chess in JavaScript<br/><img src='/images/Screenshot 2026-05-29 084723.png'>"
 collection: portfolio
 ---
 
